@@ -1,0 +1,8 @@
+C:\Users\konul\OneDrive\Masaüstü\PurpleBuzz\PurpleBuzz\PurpleBuzz\obj\Debug\net6.0\PurpleBuzz.csproj.AssemblyReference.cache
+C:\Users\konul\OneDrive\Masaüstü\PurpleBuzz\PurpleBuzz\PurpleBuzz\obj\Debug\net6.0\PurpleBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konul\OneDrive\Masaüstü\PurpleBuzz\PurpleBuzz\PurpleBuzz\obj\Debug\net6.0\PurpleBuzz.AssemblyInfoInputs.cache
+C:\Users\konul\OneDrive\Masaüstü\PurpleBuzz\PurpleBuzz\PurpleBuzz\obj\Debug\net6.0\PurpleBuzz.AssemblyInfo.cs
+C:\Users\konul\OneDrive\Masaüstü\PurpleBuzz\PurpleBuzz\PurpleBuzz\obj\Debug\net6.0\PurpleBuzz.csproj.CoreCompileInputs.cache
+C:\Users\konul\OneDrive\Masaüstü\PurpleBuzz\PurpleBuzz\PurpleBuzz\obj\Debug\net6.0\PurpleBuzz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konul\OneDrive\Masaüstü\PurpleBuzz\PurpleBuzz\PurpleBuzz\obj\Debug\net6.0\PurpleBuzz.RazorAssemblyInfo.cache
+C:\Users\konul\OneDrive\Masaüstü\PurpleBuzz\PurpleBuzz\PurpleBuzz\obj\Debug\net6.0\PurpleBuzz.RazorAssemblyInfo.cs
